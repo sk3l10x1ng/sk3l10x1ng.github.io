@@ -1,6 +1,7 @@
 ---
 ---
 
+@import 'main.bundle';
 /* prettier-ignore */
 @use 'main
 {%- if jekyll.environment == 'production' -%}
