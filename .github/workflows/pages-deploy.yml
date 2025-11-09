@@ -3,6 +3,7 @@ on:
   push:
     branches:
       - t1
+      - main
     paths-ignore:
       - .gitignore
       - README.md
